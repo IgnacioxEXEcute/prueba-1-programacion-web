@@ -1,0 +1,9 @@
+header{
+	background:url(img/32384pizza_98934.svg) no-repeat center center fixed;
+	background-size:cover;
+	height:100px;
+	width: 100%;
+	position: absolute;
+	left:0;
+	top:0;
+}
